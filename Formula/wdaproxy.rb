@@ -1,9 +1,9 @@
 class Wdaproxy < Formula
   desc ""
   homepage ""
-  url "https://github.com/stephanieDL/wdaproxy/releases/download/0.1.2/wdaproxy_0.1.2_darwin_amd64.tar.gz"
-  version "0.1.2"
-  sha256 "1c2cd7ff7bb4626044d7a2d2bcc4d35dc3918fb261787d0ad082fc423b0da072"
+  url "https://github.com/stephanieDL/wdaproxy/archive/0.1.3.tar.gz"
+  version "0.1.3"
+  sha256 "638e7b29903b267f7a20944325cfc617bebecd48"
   
   depends_on "usbmuxd"
 
